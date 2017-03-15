@@ -22,5 +22,15 @@ From https://tecadmin.net/install-oracle-java-8-ubuntu-via-ppa/
 From git-scm.com
 
     Download for Linux and Unix Debian/Ubuntu
-        $ apt-get install git
-  
+        $ sudo apt-get install git
+        $ git --version
+
+        $ git config --global user.name "YOUR NAME"
+        $ git config --global user.email "YOUR EMAIL ADDRESS"
+
+From https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-linux
+
+From https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+
+        sudo apt-get install geomview    
+        clip < ~/.ssh/id_rsa.pub
