@@ -1,4 +1,7 @@
 # AWS_prototyping
+
+****************** Java Install ************************
+
 From https://tecadmin.net/install-oracle-java-8-ubuntu-via-ppa/
 
     $ sudo add-apt-repository ppa:webupd8team/java
@@ -14,3 +17,10 @@ From https://tecadmin.net/install-oracle-java-8-ubuntu-via-ppa/
     JAVA_HOME=/usr/lib/jvm/java-8-oracle
     JRE_HOME=/usr/lib/jvm/java-8-oracle/jre
 
+******************* Git Install ****************************
+
+From git-scm.com
+
+    Download for Linux and Unix Debian/Ubuntu
+        $ apt-get install git
+  
