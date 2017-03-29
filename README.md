@@ -34,3 +34,10 @@ From https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-accoun
 
         sudo apt-get install geomview    
         clip < ~/.ssh/id_rsa.pub
+        
+******************* NGINX Install ****************************
+
+from https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-14-04-lts
+
+******************* Jenkins Install ****************************
+
