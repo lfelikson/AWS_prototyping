@@ -41,3 +41,12 @@ from https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ub
 
 ******************* Jenkins Install ****************************
 
+
+******************* Chef Install *******************************
+from https://learn.chef.io/tutorials/learn-the-basics/ubuntu/aws/set-up-a-machine-to-manage/#step1
+
+****************** Emacs Install and Tutorial ******************
+from http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/
+
+
+
