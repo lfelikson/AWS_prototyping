@@ -47,6 +47,9 @@ from https://learn.chef.io/tutorials/learn-the-basics/ubuntu/aws/set-up-a-machin
 
 ****************** Emacs Install and Tutorial ******************
 from http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/
+****************** Maven Install *******************************
+https://www.mkyong.com/maven/how-to-install-maven-in-ubuntu/
+
 
 
 
