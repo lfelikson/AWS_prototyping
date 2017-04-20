@@ -37,17 +37,22 @@ From https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-accoun
         
 ******************* NGINX Install ****************************
 
+
 from https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-14-04-lts
 
 ******************* Jenkins Install ****************************
 
 
 ******************* Chef Install *******************************
+
 from https://learn.chef.io/tutorials/learn-the-basics/ubuntu/aws/set-up-a-machine-to-manage/#step1
 
 ****************** Emacs Install and Tutorial ******************
+
 from http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/
+
 ****************** Maven Install *******************************
+
 https://www.mkyong.com/maven/how-to-install-maven-in-ubuntu/
 
 
